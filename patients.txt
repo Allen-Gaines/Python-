@@ -1,0 +1,3 @@
+patient-id,height,weight
+P0123,66,150
+P4354,68,164
